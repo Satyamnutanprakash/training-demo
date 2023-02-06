@@ -1,3 +1,4 @@
 God is Great.
-I successfuly created a clone of training-demo in pat
+I successfuly created a clone of training-demo in pat folder using ssh-authentication method.
+
 
